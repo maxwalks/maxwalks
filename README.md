@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="maxwalks' Github Stats" src="https://github-readme-stats.vercel.app/api?username=maxwalks&show_icons=true&count_private=true&theme=highcontrast" height="192px"/>
+    </a>
+  
 
-<!--
-**maxwalks/maxwalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <img width="17" src="https://github.com/maxwalks/maxwalks/assets/78441835/f7c8b668-3126-4aa1-805c-7b983185d75a"> <a href="https://www.tiktok.com/@maxwalkss">My Tiktok</a>
+    ·
+    <a href="https://maxwalks.xyz">My Website</a>
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+  </p>
+  
+  </div>
