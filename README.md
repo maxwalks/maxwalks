@@ -16,14 +16,11 @@
   </p>
   
   </div>
-  
-Languages: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+Web Development:
 
-Libraries/Frameworks:
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
+[![Languages](https://skillicons.dev/icons?i=js,html,css,py,nodejs,express,flask,bootstrap)](https://skillicons.dev)
+
+Other skills:
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,cloudflare,linux,raspberrypi,nginx)](https://skillicons.dev)
