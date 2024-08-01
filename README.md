@@ -19,8 +19,8 @@
 Web Development:
 
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,py,nodejs,express,flask,bootstrap)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,react,nextjs,express,nodejs,mongodb,bootstrap,tailwind)](https://skillicons.dev)
 
 Other skills:
 
-[![Skills](https://skillicons.dev/icons?i=aws,docker,cloudflare,linux,raspberrypi,nginx)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=discordjs,aws,docker,cloudflare,linux,raspberrypi,nginx)](https://skillicons.dev)
