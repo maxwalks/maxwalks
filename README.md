@@ -19,7 +19,7 @@
 Web Development:
 
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,react,nextjs,express,nodejs,mongodb,bootstrap,tailwind)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,react,vite,nextjs,express,nodejs,mongodb,bootstrap,tailwind)](https://skillicons.dev)
 
 Other skills:
 
