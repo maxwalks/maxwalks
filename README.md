@@ -5,15 +5,6 @@
   
 
   </p>
-
-  <p align="center">
-    <img width="17" src="https://github.com/maxwalks/maxwalks/assets/78441835/f7c8b668-3126-4aa1-805c-7b983185d75a"> <a href="https://www.tiktok.com/@maxwalkss">My Tiktok</a>
-    ·
-    <a href="https://maxwalks.xyz">My Website</a>
-    
-
-    
-  </p>
   
   </div>
 Web Development:
